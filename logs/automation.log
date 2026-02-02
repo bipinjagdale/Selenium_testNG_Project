@@ -1,6 +1,0 @@
-2026-02-02 12:22:27.332 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/bipinjagdale/Desktop/JAVA_PROJECT/OpenCartv1/Master.xml"
-2026-02-02 12:22:29.601 [main] INFO  testCases.TC001_AccountRegistration - ******* Starting TC001_AccountRegistration *******
-2026-02-02 12:22:29.660 [main] INFO  testCases.TC001_AccountRegistration - clicked on my account
-2026-02-02 12:22:29.769 [main] INFO  testCases.TC001_AccountRegistration - clicked on account registration
-2026-02-02 12:22:29.776 [main] INFO  testCases.TC001_AccountRegistration - providing customer details
-2026-02-02 12:22:30.168 [main] INFO  testCases.TC001_AccountRegistration - *****  Finished TC001_AccountRegistration  *****
