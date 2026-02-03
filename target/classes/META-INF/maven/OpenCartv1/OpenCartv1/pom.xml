@@ -19,7 +19,7 @@
           <version>3.5.4</version>
           <configuration>
           	<suiteXmlFiles>
-            	<suitXmlFile>Master.xml</suitXmlFile>
+            	<suitXmlFile>grouping.xml</suitXmlFile>
             </suiteXmlFiles>
           </configuration>
         </plugin>

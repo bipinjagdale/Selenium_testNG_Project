@@ -4,3 +4,9 @@
 2026-02-02 14:51:20.667 [main] INFO  testCases.TC001_AccountRegistration - clicked on account registration
 2026-02-02 14:51:20.676 [main] INFO  testCases.TC001_AccountRegistration - providing customer details
 2026-02-02 14:51:22.131 [main] INFO  testCases.TC001_AccountRegistration - *****  Finished TC001_AccountRegistration  *****
+2026-02-02 19:51:14.431 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/bipinjagdale/Desktop/JAVA_PROJECT/OpenCartv1/Master.xml"
+2026-02-02 19:51:16.593 [main] INFO  testCases.TC001_AccountRegistration - ******* Starting TC001_AccountRegistration *******
+2026-02-02 19:51:16.633 [main] INFO  testCases.TC001_AccountRegistration - clicked on my account
+2026-02-02 19:51:16.794 [main] INFO  testCases.TC001_AccountRegistration - clicked on account registration
+2026-02-02 19:51:16.800 [main] INFO  testCases.TC001_AccountRegistration - providing customer details
+2026-02-02 19:51:17.179 [main] INFO  testCases.TC001_AccountRegistration - *****  Finished TC001_AccountRegistration  *****
